@@ -1,0 +1,10 @@
+body, a {
+    font-family: fantasy, Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+ul, ol {
+    text-align: left;
+}
